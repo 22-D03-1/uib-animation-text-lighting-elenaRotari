@@ -18,7 +18,7 @@ span {
   font-size: 80px;
   font-weight: 400;
   letter-spacing: 1rem;
-  animation: slide 1000ms infinite forwards;
+  animation: slide 1000ms linear infinite;
 }
 .container :first-child {
   animation-delay: 0ms;
